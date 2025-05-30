@@ -1,4 +1,4 @@
-'''Exercise 1: Rewrite your pay computation to give the employee 1.5 times the hourly rate for hours worked above 40 hours.'''
+'''Exercise 1: Rewrite your pay computation to give the employee 1.5 times the hourly rate for hours worked above 40 hours.Using try and except to handle eror'''
 Hours = int(input("How many hours have you worked? : "))
 Rate = int(input("what's your rate per hour? : "))
 try:
